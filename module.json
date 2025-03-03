@@ -1,0 +1,21 @@
+{
+    "id": "gamertag",
+    "version": "1.0.0",
+    "name": "Gamertag",
+    "description": "Create and add gamertags to user profiles.",
+    "humhub": {
+        "minVersion": "1.16.0"
+    },
+    "keywords": ["gamertags"],
+    "screenshots": [],
+    "homepage": "https://greenmeteor.net/",
+    "issues": "https://github.com/GreenMeteor/premium-modules/issues",
+    "authors": [
+        {
+            "name": "Green Meteor",
+            "email": "hello@greenmeteor.net",
+            "homepage": "https://greenmeteor.net",
+            "role": "Owner"
+        }
+    ]
+}
